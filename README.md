@@ -23,10 +23,10 @@ We specialize in building systems that combine **AI**, **cloud technologies**, a
 ---
 
 ### 🧩 Connect With Us
-- 🌐 **Website:** Coming soon  
-- 💬 **Email:** info@nezainc.tech *(or your preferred domain)*  
+- 🌐 **Website:** nezaspace.netlify.app 
+- 💬 **Email:**   team@neza360@gmail.com
 - 🧰 **GitHub:** [github.com/NezaInc](https://github.com/NezaInc)  
-- 🧠 **Founder:** [Newton Manyeki Kamau](https://github.com/Ne-x-tr-on)  
+- 🧠 **Founder:** [Newton Kamau](https://github.com/Ne-x-tr-on)  
 
 ---
 
